@@ -7,7 +7,7 @@ class Main extends Component {
 
             <div>
                 <AppBar
-                    title="React-Chat-App"
+                    title="Crime-report-app"
                     iconClassNameRight="muidocs-icon-navigation-expand-more"
                 />
                 {this.props.children}
